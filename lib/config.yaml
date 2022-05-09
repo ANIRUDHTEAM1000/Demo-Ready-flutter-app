@@ -1,0 +1,6 @@
+links:
+  login: '/walletengine/user/'
+  transfer: '/walletengine/transfer'
+  balance: '/walletengine/balance/'
+  search_user: 'walletengine/user/query/'
+  transactions: '/walletengine/get/transactions/'
